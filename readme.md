@@ -7,4 +7,4 @@ To run the script, just type in R:
 > source("run_analysis.R")  
 > run_analysis()
 
-The workflow and the output of run_analysis() is detailed in the CodeBook.md provided in this repository.
+This script will automatically download and process the data. The workflow and the output of run_analysis() is detailed in the CodeBook.md provided in this repository.
